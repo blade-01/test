@@ -12,6 +12,30 @@
   "dependencies": {
     "nuxt": "^3.13.0",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "@nuxt/image": "^1.0.0",
+    "@pinia/nuxt": "^0.5.1",
+    "@vee-validate/nuxt": "^4.11.3",
+    "@vee-validate/yup": "^4.8.6",
+    "@vueuse/nuxt": "^10.5.0",
+    "@vueuse/router": "^10.6.1",
+    "next-auth": "4.21.1",
+    "pinia": "^2.1.7",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.39.0",
+    "vue-tel-input": "^8.1.4",
+    "vue3-carousel-nuxt": "^1.1.0",
+    "yup": "^1.3.2"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.0.0",
+    "@nuxtjs/i18n": "^8.0.0-rc.5",
+    "@nuxtjs/tailwindcss": "^6.9.0",
+    "@sidebase/nuxt-auth": "^0.6.0-beta.3",
+    "@tailvue/nuxt": "^1.0.0",
+    "@types/vue-tel-input": "^2.1.5",
+    "dayjs-nuxt": "^2.1.9",
+    "nuxt-headlessui": "^1.1.4",
+    "nuxt-icon": "^0.6.1"
   }
 }
