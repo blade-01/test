@@ -8,7 +8,6 @@ useHead({
 });
 
 const handleClearError = () => clearError({ redirect: "/" });
-const { setTheme } = useTheme();
 </script>
 
 <template>
