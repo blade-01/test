@@ -25,8 +25,7 @@
     "primevue": "^3.39.0",
     "vue-tel-input": "^8.1.4",
     "vue3-carousel-nuxt": "^1.1.0",
-    "yup": "^1.3.2",
-    "@nuxthub/core": "^0.7.19"
+    "yup": "^1.3.2"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.0",
@@ -37,7 +36,6 @@
     "@types/vue-tel-input": "^2.1.5",
     "dayjs-nuxt": "^2.1.9",
     "nuxt-headlessui": "^1.1.4",
-    "nuxt-icon": "^0.6.1",
-    "wrangler": "^3.78.7"
+    "nuxt-icon": "^0.6.1"
   }
 }

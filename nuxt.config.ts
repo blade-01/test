@@ -45,8 +45,7 @@ export default defineNuxtConfig({
     "dayjs-nuxt",
     "vue3-carousel-nuxt",
     "@nuxt/devtools",
-    "@sidebase/nuxt-auth",
-    "@nuxthub/core"
+    "@sidebase/nuxt-auth"
   ],
 
   /**
